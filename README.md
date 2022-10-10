@@ -36,6 +36,8 @@ Desenvolva uma página web contendo um formulário onde você poderá inserir su
 
 Você precisara abrir o arquivo XML e iterar todos os elementos filhos do elemento “signos” para descobrir em qual Signo a data do seu aniversário esta inclusa no range de datas (dataInicio/dataFim). 
 
+## Demonstração do projeto
+
 ![Demonstrando o projeto][gif]
 
-[gif]: signo.gif
+[gif]: signo.gif?image=1000
